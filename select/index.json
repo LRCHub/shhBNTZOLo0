@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夏の現在地 (Full Size Album Mix)",
+  "base_artist": "照井順政、岡地織花",
+  "createdAt": "2026-01-01T15:25:50.198602Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏の現在地 (I_047)",
+      "artist": "照井順政、岡地織花",
+      "has_synced": false,
+      "path": "select/pl_01_夏の現在地_(I_047)_照井順政、岡地織花.txt"
+    }
+  ]
+}
